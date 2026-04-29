@@ -1,16 +1,15 @@
-## Hi there 👋
+## RaytoneLAB
 
-<!--
-**RaytoneLAB/RaytoneLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Enterprise AI agent infrastructure. Integration, isolation, governance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Build
+
+| Layer | Function |
+|-------|----------|
+| **Integration** | Unified runtime for multiple AI models and tools |
+| **Isolation** | Secure sandbox between agents and enterprise systems |
+| **Governance** | Audit, access control, and policy enforcement |
+
+---
